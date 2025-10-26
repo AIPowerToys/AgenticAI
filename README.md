@@ -1,4 +1,4 @@
-# 🎙️ Python Voice AI Agent
+# 🎙️ Python Voice AI Agent (Demonstrating Agentic AI in action)
 
 A production-ready voice assistant with **Voice Activity Detection (VAD)** that enables natural, hands-free conversations using Python and OpenAI's GPT-4o.
 
